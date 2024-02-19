@@ -12,10 +12,10 @@ The AdventureWorks database contains data related to a fictitious bicycle manufa
 ![Image](https://github.com/ebunoluwazaynab/AdventureWorks-DB-EDA-with-SQL-and-PowerBI-/blob/main/Visualization/entity_relationship_diagram.JPG)
 
 ##### ii. Sales Overview Dashboard 
-![Image](https://github.com/ebunoluwazaynab/AdventureWorks-DB-EDA-with-SQL-and-PowerBI-/blob/main/Visualization/sales_overview.jpg)
+![Image](https://github.com/imdhanasekar/KPI_Analysis_of_Adventureworks_cycles/blob/main/executive.png)
 
 ##### iii. Product Details Dashboard  
-![Image](https://github.com/ebunoluwazaynab/AdventureWorks-DB-EDA-with-SQL-and-PowerBI-/blob/main/Visualization/product_details.jpg)
+![Image](https://github.com/imdhanasekar/KPI_Analysis_of_Adventureworks_cycles/blob/main/product%20detail.png)
 
 ##### iv. Customer Details Dashbaord  
-![Image](https://github.com/ebunoluwazaynab/AdventureWorks-DB-EDA-with-SQL-and-PowerBI-/blob/main/Visualization/customer_details.jpg)
+![Image](https://github.com/imdhanasekar/KPI_Analysis_of_Adventureworks_cycles/blob/main/customer%20detail.png)
