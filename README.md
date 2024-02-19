@@ -9,7 +9,7 @@ The AdventureWorks database contains data related to a fictitious bicycle manufa
 
 ## Data Visualization 
 ##### i. Entity Relationship Diagram Model 
-![Image](https://github.com/ebunoluwazaynab/AdventureWorks-DB-EDA-with-SQL-and-PowerBI-/blob/main/Visualization/entity_relationship_diagram.JPG)
+![Image](https://github.com/imdhanasekar/KPI_Analysis_of_Adventureworks_cycles/blob/main/relation.png)
 
 ##### ii. Sales Overview Dashboard 
 ![Image](https://github.com/imdhanasekar/KPI_Analysis_of_Adventureworks_cycles/blob/main/executive.png)
@@ -19,3 +19,6 @@ The AdventureWorks database contains data related to a fictitious bicycle manufa
 
 ##### iv. Customer Details Dashbaord  
 ![Image](https://github.com/imdhanasekar/KPI_Analysis_of_Adventureworks_cycles/blob/main/customer%20detail.png)
+
+##### v. Maps Dashbaord
+![Image](https://github.com/imdhanasekar/KPI_Analysis_of_Adventureworks_cycles/blob/main/maps.png)
