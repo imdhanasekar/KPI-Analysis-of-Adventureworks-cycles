@@ -1,1 +1,8 @@
-# KPI analysis of Adventureworks cycles company
+# KPI analysis of Adventureworks cycles company with Power BI
+
+Welcome to the AdventureWorks Database Analysis and Visualization project! 
+
+## Project Overview 
+This project aims to provide insights and visualizations into the AdventureWorks database, which is a sample database provided by Microsoft for learning and testing purposes.
+
+The AdventureWorks database contains data related to a fictitious bicycle manufacturer, including information on products, sales, customers, and employees. In this project, we will use Microsoft Power BI to analyze and visualize the data in order to gain a better understanding of the business operations of AdventureWorks.
